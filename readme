@@ -1,0 +1,27 @@
+###############################################
+2019/05/10  key_system.py v1.0.3
+!searchkey SKRXXXXX command is added
+It returns key holder's information
+NOTES: DO NOT REPLACE keys.txt WHEN UPDATE THE .py FILE
+REPLACE key_system.py ONLY
+
+###############################################
+2019/05/10  key_system.py v1.0.2
+!assignkey @user KEY command is removed!
+keys.txt file cannot be empty always!!! 
+{} in keys.txt is needed for first time start
+
+###############################################
+2019/05/09  key_assign.py v1.0.1
+Features:
+!assignkey @user KEY  
+#### Please not use this command in public channel since it is not role controlled yet###
+@user is @someone not @role
+KEY can by string or numbers. It doesn't matter.
+
+!key
+This is the command to look up key.
+The person who is requiring the key is only allowed to see his/her own key.
+
+
+Keys won't be leaked unless keys.txt is compromised
