@@ -9,7 +9,7 @@ from datetime import datetime
 import re
 client = commands.Bot(command_prefix = ".")
 
-TOKEN = "NTM3NDE2MTk4NjQ4ODg5MzY5.XLeaPQ.jloSfJ7LIXAwkWrsxyKvfWF6aEQ"
+TOKEN = ""
 guild_id = 487880066630680587
 admin_channel=[577008065262518292]
 
